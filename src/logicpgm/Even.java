@@ -14,6 +14,7 @@ for(int i=1;i<=10;i++)
 System.out.println("Hi Priya this is Even program");
 System.out.println("Do you know");
 System.out.println("Hello");
+System.out.println("Garur");
 	}
 
 }
